@@ -35,4 +35,4 @@ For example, I use it to ignore cache files or secret config files that I don’
 
 This repository contains my answers and files for the Git & GitHub assignment.  
 I created a Python file that prints "Hello GitHub!", worked with branches, and practiced pull requests.  
-I also added an inf
+I also added an info file, updated the README, and added a .gitignore for Python cache files.
