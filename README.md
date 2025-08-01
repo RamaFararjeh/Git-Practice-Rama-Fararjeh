@@ -31,8 +31,10 @@ For example, I use it to ignore cache files or secret config files that I don’
 
 -----------------------------
 
-## Part 2: Task Summary
+## Task Summary
 
-This repository contains my answers and files for the Git & GitHub assignment.  
-I created a Python file that prints "Hello GitHub!", worked with branches, and practiced pull requests.  
-I also added an inf
+This project was completed as part of a Git & GitHub practical assignment.  
+It includes:
+- A Python script that prints "Hello GitHub!"
+- A new branch with my personal info (info.txt)
+- Clear commits and a pull request
