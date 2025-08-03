@@ -22,12 +22,12 @@ For example, I use it to ignore cache files or secret config files that I don’
 
 ------------------------------
 ### 4. Describe the steps to contribute to an open-source project on GitHub.
-
-
-
-
-
-
+1. Fork the project to my GitHub account.
+2. Clone it to my computer using git clone.
+3. Create a new branch for my changes.
+4. Make the changes and commit them.
+5. Push the branch to my GitHub.
+6. Open a Pull Request to suggest my changes to the original project.
 
 -----------------------------
 
